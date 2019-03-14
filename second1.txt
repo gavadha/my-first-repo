@@ -1,2 +1,4 @@
 learning is great
 here is some more
+new line for new branch1
+new one for creating conflict
